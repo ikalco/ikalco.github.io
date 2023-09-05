@@ -44,8 +44,6 @@
 	justify-content: center;
 
 	background-color: white;
-	stroke: #d1d5db;
-	stroke-width: 1px;
 
 	flex-grow: 1;
 
@@ -55,6 +53,7 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 
+	border: 1px solid#d1d5db;
 	border-radius: 10px;
 
 	font-family: Inter;
