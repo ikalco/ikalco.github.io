@@ -1,0 +1,18 @@
+.person-img-div {
+	width: 325px;
+	padding: auto;
+
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	background-color: #161619;
+}
+
+.person-img {
+	border: none;
+	margin: 7.5px;
+
+	max-width: 310px;
+
+	border-radius: 50%;
+	object-fit: contain;
+}
