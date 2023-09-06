@@ -1,16 +1,12 @@
 import './App.css'
-import PersonImg from './components/PersonImg.jsx'
-import Body from './components/Body.jsx'
-import Socials from './components/Socials.jsx'
+import Profile from './components/Profile.jsx'
+import ProjectsContainer from './components/ProjectsContainer.jsx'
 
 function App() {
 	return (
 		<div className="app">
-			<main className="content">
-				<PersonImg />
-				<Body />
-				<Socials />
-			</main>
+			<Profile />
+			<ProjectsContainer />
 		</div>
 	)
 }
